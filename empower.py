@@ -6,7 +6,7 @@ from time import sleep
 
 #enter your empower credetionals so that login could be successful
 trackingNumber = "576854"
-password = "FCempowerMS.99"
+password = "wrong password"
 
 print("Initializing...")
 # using Chrome Driver
